@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"2f1a6e69-442b-41bd-91dc-cb9e2e4e75c0","name":"South African Rand","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"ZAR","conversionFactor":0.0783281636745308,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

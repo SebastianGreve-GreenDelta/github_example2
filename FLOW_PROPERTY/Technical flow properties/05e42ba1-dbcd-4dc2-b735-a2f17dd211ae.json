@@ -1,0 +1,1 @@
+{"@type":"FlowProperty","@id":"05e42ba1-dbcd-4dc2-b735-a2f17dd211ae","name":"Mechanical Filtration (Transf.)","description":"","category":"Technical flow properties","version":"00.00.000","flowPropertyType":"PHYSICAL_QUANTITY","unitGroup":{"@type":"UnitGroup","@id":"f2275057-f8be-4db9-bb78-5dfc276967a0","name":"Units of length*area/time","category":"Technical unit groups"}}

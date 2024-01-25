@@ -1,0 +1,1 @@
+{"@type":"FlowProperty","@id":"e2f7001e-a331-4fc7-8052-c0b9bcf6a05f","name":"Energy/area*time","description":"","category":"Technical flow properties","version":"00.00.000","flowPropertyType":"PHYSICAL_QUANTITY","unitGroup":{"@type":"UnitGroup","@id":"876adcd3-29e6-44e2-acdd-11be304ae654","name":"Units of energy/area*time","category":"Technical unit groups"}}

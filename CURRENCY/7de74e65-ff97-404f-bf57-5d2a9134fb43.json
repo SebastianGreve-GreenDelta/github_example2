@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"7de74e65-ff97-404f-bf57-5d2a9134fb43","name":"Euro","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"EUR","conversionFactor":1.10975474420153,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

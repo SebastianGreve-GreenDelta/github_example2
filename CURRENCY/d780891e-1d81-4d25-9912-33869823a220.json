@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"d780891e-1d81-4d25-9912-33869823a220","name":"Chinese Yuan Renminbi","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"CNY","conversionFactor":0.160549722248981,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

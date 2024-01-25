@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"3eee2da0-75ae-4f84-972c-e15e58167ef2","name":"Australian Dollar","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"AUD","conversionFactor":0.751145496882746,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

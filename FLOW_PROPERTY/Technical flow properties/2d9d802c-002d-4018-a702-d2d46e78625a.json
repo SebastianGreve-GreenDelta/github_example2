@@ -1,0 +1,1 @@
+{"@type":"FlowProperty","@id":"2d9d802c-002d-4018-a702-d2d46e78625a","name":"Biotic Production (Occ.)","description":"","category":"Technical flow properties","version":"00.00.000","flowPropertyType":"PHYSICAL_QUANTITY","unitGroup":{"@type":"UnitGroup","@id":"93a60a57-a4c8-11da-a746-0800200c9a66","name":"Units of mass","category":"Technical unit groups"}}

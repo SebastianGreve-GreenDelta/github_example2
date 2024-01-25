@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"24217f9a-0f63-4dc8-8440-c5829145f263","name":"Swiss Franc","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"CHF","conversionFactor":1.03906899418121,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

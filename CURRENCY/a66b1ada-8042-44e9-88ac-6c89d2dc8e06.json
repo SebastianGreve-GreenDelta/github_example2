@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"a66b1ada-8042-44e9-88ac-6c89d2dc8e06","name":"Singapore Dollar","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"SGD","conversionFactor":0.72748435908628,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

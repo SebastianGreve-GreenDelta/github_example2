@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"1ab0ca1b-79e7-4d5b-b501-cbf043ff302d","name":"Swedish Krona","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"SEK","conversionFactor":0.118590199705896,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

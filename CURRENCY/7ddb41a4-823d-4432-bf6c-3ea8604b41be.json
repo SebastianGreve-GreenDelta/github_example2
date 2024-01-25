@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"7ddb41a4-823d-4432-bf6c-3ea8604b41be","name":"Japanese Yen","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"JPY","conversionFactor":0.00826104915324246,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

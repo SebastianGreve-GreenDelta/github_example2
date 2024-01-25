@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"0b705d37-d71c-4c8f-8e02-2b36663635c6","name":"Pound sterling","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"GBP","conversionFactor":1.52835090936879,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}

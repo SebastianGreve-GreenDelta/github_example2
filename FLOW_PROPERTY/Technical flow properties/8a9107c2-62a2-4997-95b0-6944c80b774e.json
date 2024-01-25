@@ -1,0 +1,1 @@
+{"@type":"FlowProperty","@id":"8a9107c2-62a2-4997-95b0-6944c80b774e","name":"Physicochemical Filtration (Occ.)","description":"","category":"Technical flow properties","version":"00.00.000","flowPropertyType":"PHYSICAL_QUANTITY","unitGroup":{"@type":"UnitGroup","@id":"a6941776-ee4b-40fe-9a05-e19faac45240","name":"Units of mole*area*time/mass","category":"Technical unit groups"}}

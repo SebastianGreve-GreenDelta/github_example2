@@ -1,0 +1,1 @@
+{"@type":"FlowProperty","@id":"ecbe0a5d-f397-4b74-993d-32d231e4bcf9","name":"Vehicle transport","description":"","category":"Technical flow properties","version":"00.00.000","flowPropertyType":"PHYSICAL_QUANTITY","unitGroup":{"@type":"UnitGroup","@id":"af16ae7e-3e04-408a-b8ae-5b3666dbe7f9","name":"Units of vehicle transport","category":"Technical unit groups"}}

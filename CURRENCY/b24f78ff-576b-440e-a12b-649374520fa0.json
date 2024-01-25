@@ -1,0 +1,1 @@
+{"@type":"Currency","@id":"b24f78ff-576b-440e-a12b-649374520fa0","name":"Canadian Dollar","description":"2015 average. Source: http://www.oanda.com","version":"00.00.000","code":"CAD","conversionFactor":0.782350179940541,"refCurrency":{"@type":"Currency","@id":"505a07ff-16d7-4a83-b131-66998dad1732","name":"US Dollar","refUnit":"USD"}}
