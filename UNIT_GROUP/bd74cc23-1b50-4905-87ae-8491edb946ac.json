@@ -1,0 +1,1 @@
+{"@type":"UnitGroup","@id":"bd74cc23-1b50-4905-87ae-8491edb946ac","name":"A new unit group","description":"","version":"00.00.000","lastChange":"2024-01-29T15:00:48.146Z","units":[{"@type":"Unit","@id":"681f0ed1-aed2-48d1-8096-901750ef8541","name":"unit","conversionFactor":1.0,"isRefUnit":true}]}
