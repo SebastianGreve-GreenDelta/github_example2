@@ -1,0 +1,1 @@
+{"@type":"UnitGroup","@id":"a54bca33-a35f-4ce4-ad5c-8f8d3e596805","name":"test","description":"","category":"test","version":"00.00.000","lastChange":"2024-01-29T16:39:30.686Z","units":[{"@type":"Unit","@id":"bc1490b6-40aa-408e-9fa3-0e757ed89c40","name":"ttt","conversionFactor":1.0,"isRefUnit":true}]}
